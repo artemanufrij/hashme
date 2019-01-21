@@ -8,13 +8,13 @@ msgstr ""
 
 #: src/MainWindow.vala:76
 msgid "Calculating checksum…"
-msgstr ""
+msgstr "Calculando checksum…"
 
 #: src/MainWindow.vala:110 data/com.github.artemanufrij.hashit.desktop.in:3
 #: data/com.github.artemanufrij.hashit.desktop.in:4
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:7
 msgid "Hash It"
-msgstr ""
+msgstr "Hash It"
 
 #: src/MainWindow.vala:115
 msgid "Open a file"
