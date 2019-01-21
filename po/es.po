@@ -69,7 +69,7 @@ msgstr "com.github.artemanufrij.hashit"
 msgid ""
 "A tool that allows you to ensure a file hasn't become corrupted by comparing "
 "its hashsum"
-msgstr "Una herramienta que permite asegurarte que un fichero no está corrupto "
+msgstr "Una herramienta que te permite asegurar que un fichero no está corrupto "
 "comparando su hashsum"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:12
