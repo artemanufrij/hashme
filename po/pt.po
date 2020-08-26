@@ -5,102 +5,115 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: André Barata <andretiagob@protonmail.com>\n"
+"Language-Team: none\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #: src/MainWindow.vala:76
 msgid "Calculating checksum…"
-msgstr ""
+msgstr "A calcular checksum…"
 
 #: src/MainWindow.vala:110 src/Application.vala:43
 #: data/com.github.artemanufrij.hashit.desktop.in:3
 #: data/com.github.artemanufrij.hashit.desktop.in:4
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:7
 msgid "Hash It"
-msgstr ""
+msgstr "Hash It"
 
 #: src/MainWindow.vala:115
 msgid "Open a file"
-msgstr ""
+msgstr "Abrir um ficheiro"
 
 #: src/MainWindow.vala:126
 msgid "Choose an algorithm"
-msgstr ""
+msgstr "Escolha um algoritmo"
 
 #: src/MainWindow.vala:139
 msgid "(optional) paste a reference hash here…"
-msgstr ""
+msgstr "(opcional) cole uma referência de hash aqui…"
 
 #: src/MainWindow.vala:144
 msgid "Choose a file or drag one onto this window…"
-msgstr ""
+msgstr "Escolha um ficheiro ou arraste-o para dentro desta janela…"
 
 #: src/MainWindow.vala:153
 msgid "Copy result…"
-msgstr ""
+msgstr "Copiar resultado…"
 
 #: src/MainWindow.vala:201
 msgid "Open"
-msgstr ""
+msgstr "Abrir"
 
 #: src/MainWindow.vala:203
 msgid "_Cancel"
-msgstr ""
+msgstr "_Cancelar"
 
 #: src/MainWindow.vala:204
 msgid "_Open"
-msgstr ""
+msgstr "_Abrir"
 
 #: src/MainWindow.vala:207
 msgid "All files"
-msgstr ""
+msgstr "Todos os ficheiros"
 
 #: data/com.github.artemanufrij.hashit.desktop.in:5
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:8
 msgid "Generate and verify file hashes"
-msgstr ""
+msgstr "Gerar e verificar hashes do ficheiro"
 
 #: data/com.github.artemanufrij.hashit.desktop.in:6
 msgid "hash;checksum;md5;sha256;"
-msgstr ""
+msgstr "hash;checksum;md5;sha256;"
 
 #: data/com.github.artemanufrij.hashit.desktop.in:8
 msgid "com.github.artemanufrij.hashit"
-msgstr ""
+msgstr "com.github.artemanufrij.hashit"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:10
 msgid ""
 "A tool that allows you to ensure a file hasn't become corrupted by comparing "
 "its hashsum"
 msgstr ""
+"Uma ferramenta que permite verificar se um ficheiro ficou corrompido "
+"comparando-o com o seu hashsum"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:12
 msgid "Verify files with a reference hash to ensure the integrity of files"
 msgstr ""
+"Verifica ficheiros com uma referência de hash para garantir a integridade "
+"dos mesmo"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:13
 msgid ""
 "Generate file hashes to allow yourself and others to verify file integrity"
 msgstr ""
+"Gera hashes de ficheiros que permite a si e a outros verificar a integridade "
+"dos mesmos"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:14
 msgid "Supports SHA256, SHA1 and MD5 algorithms"
-msgstr ""
+msgstr "Suporta algoritmos SHA256, SHA1 e MD5"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:25
 msgid "Artem Anufrij"
-msgstr ""
+msgstr "Artem Anufrij"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:38
 msgid "Update French (by NathanBnm)"
-msgstr ""
+msgstr "Atualização do Francês (por NathanBnm)"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:43
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:97
 msgid "New:"
-msgstr ""
+msgstr "Novo:"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:45
 msgid "Switch to meson"
-msgstr ""
+msgstr "Alteração para o meson"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:47
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:57
@@ -108,54 +121,54 @@ msgstr ""
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:81
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:106
 msgid "Translation:"
-msgstr ""
+msgstr "Tradução:"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:49
 msgid "Dutch (by Heimen Stoffels)"
-msgstr ""
+msgstr "Holandês (por Heimen Stoffels)"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:50
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:71
 msgid "Lithuanian (by welaq)"
-msgstr ""
+msgstr "Lituano (por welaq)"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:59
 msgid "Norwegian Bokmål (by Harald H)"
-msgstr ""
+msgstr "Bokmål Norueguesa (por Harald H)"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:65
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:89
 msgid "Improved:"
-msgstr ""
+msgstr "Melhorias:"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:67
 msgid "Some descriptions (by aljelly)"
-msgstr ""
+msgstr "Algumas descrições (por aljelly)"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:77
 msgid "Fix:"
-msgstr ""
+msgstr "Correções:"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:79
 msgid "ignore case insensitive for equal result and reference"
-msgstr ""
+msgstr "ignora maiúsculas e minúsculas para um resultado e referência igual"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:83
 msgid "Polish (by DanyGee)"
-msgstr ""
+msgstr "Polaco (por DanyGee)"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:91
 msgid "File choosing"
-msgstr ""
+msgstr "Escolha de ficheiros"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:99
 msgid "Flat style"
-msgstr ""
+msgstr "Estilo plano"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:100
 msgid "Icon"
-msgstr ""
+msgstr "Ícone"
 
 #: data/com.github.artemanufrij.hashit.appdata.xml.in:108
 msgid "Czech (by Daniel Zvir)"
-msgstr ""
+msgstr "Checo (por Daniel Zvir)"
